@@ -1,0 +1,427 @@
+Is const volatile possible ?
+Where a const volatile variable is used?
+Write a macro to swap the nibbles in the word ?
+Ex:0x5678 output:6587
+Diff types of storage classes and details of each storage class
+Detailed discussion on Static like storage, default, scope, life time.
+which pointer value we can modify.
+Explane
+const volatile int *ptr;
+*const volatile int ptr;
+What is the difference between inline and macro?
+Write program to reset bit in register if address of register is given reset (int address, int bit)
+How to know size of memory allocated by malloc using pointer?
+How do you implement malloc ?
+Explain cinit and bss section
+Declare an array of 10 integer pointers
+Volatile variable in-depth (definition, use case, impact, when to avoid, etc)
+Where does dynamic memory allocation get stored?
+Write a program to implement memcopy.
+Optimize it such that it uses NO stack space at all
+What are the pros and cons of using dynamic memory allocation versus static memory allocation?
+If you had to allocate 1MB of memory that needs to be used for only a short time, which type of allocation would you use?
+structure padding
+about #pragma
+What are bit field ?
+How to avoid re declaration of header files
+Bit operations
+C program for factorial, prime number with recursion
+What memcopy do? implement your own memcopy function?with optimization(less usage of variables?)
+Where do const variables get stored? (literal segment)
+Static, auto, etc
+Why does the compiler perform padding?
+toggle alternate bits
+memcpy implementation
+Find a word from string
+How to find if their is in repeating node in linked list
+For a given array gather all 1's to one side and 0's to one side.
+In a given byte interchage pair of bits
+Reverse linked list
+Reverse string
+Reverse a word in a string
+Declare a array of function pointer of taking two arguments
+How to find little endian and big endian
+About dynamic and static memory
+about function pointers
+Advantages of func pointers
+Advantages of call back functions.
+What Null pointer
+In a big array consists of 1's & 0's ,write an efficient programe to keep all 1's to right side and 0's to other side?
+how can you determine whether your memory is in protected or un-protected mode?
+what is the internal implementation/mechanism made to work volatile to get the updated value?
+storage classes in C
+can we assign pointer to a static variable?
+can we assign pointer to a register variable
+What is structure padding? How can we eliminate it?
+If structure padding is efficient why not C language made this as default behavior?
+bit operations :set a bit, clear a bit, toggle a bit
+find a loop in a linked list
+why size of data types is restricted?
+why volatile and why it cant be used to all variables
+difference b/w macro and a constant variable
+Build process of C program (preprocessing, compilation, linking etc)
+difference between Malloc and calloc
+what is memory leak and how to avoid it?
+Volatile variable usage
+const and volatile difference
+How above written library function to be take care in multi thread scenarios.
+What is the default value of static?
+Write an instruction such that integer pointing should point to first element of the array on increment?
+will there be any warning if yes when at compile time or run time?
+Explain about your latest project?
+Have u faced any page faults in driver and how u will solve that issue?
+can volatile and const be used together?
+How do you declare pointer to memory mapped area?
+Call backs and explain with example
+What is volatile variable?
+can we add two pointers
+can we subtract pointers
+can i call a function using the address of that function through a point variable?
+Write a C program to set a bit at a particular position.
+Difference between structures and union
+storage classes
+diff between static and extern
+Volatile use case? Volatile is qualifier or not?
+static use case ?
+how to delete duplicate node in single linked list.
+how variable â€˜aâ€™ get allocated memory in assembly level language?
+In printf what it the purpose of %X ?
+What is the size of integer variable on 32bit and 64bit machine?
+In a given structure having n number of structure members how do you find the sizeof structure?
+How can you find the offset of next structure member
+if out of n-number of structure members, xth structure member is given how can you find the size of structure?
+DO you know container macros? In all most all kernel drivers it is used?
+What is call by value and call by reference?
+If passing name is an call by value, then array name is passed is it also call by value?
+Volatile keyword? Usage?
+Can a volatile member can be cached?
+Over all more Qâ€™s on program address space, stack heap segments?
+WAP to know how stack grows in upward or downward directions?
+WAP to convert ACII to Integer?
+Why ASCII number is required?
+Given Two boards and with exactly the same CPU should they require different compilers?
+The project done by you are in Linux platform if gcc is the compiler used what is the preprocessor used?
+what is the job of preprocessor?
+more deep question on preprocessor and compiler?
+Program to find little Endian and Big endian
+program to find the size of a structure with size of operator.
+Program to implement reversal of bits
+C-Code data segments?
+C-program compilation steps
+Linked List creation, adding elements, insertion in the middle, deleting elements in the middle.
+2-Dimentional array creation, allocation
+Reversing bits.
+Where static and global data members stored?
+What is shared lib and static library?
+Difference between typedef and #define?
+Difference between #define and CONST, which one will you chose in programming?
+Sizeof operator without using sizeof operator?
+Search the middle element in a given list?
+How and steps a C program executes.,
+How the program is loaded in execution space
+C program Compilation steps
+C program memory layout.
+Diff b/w string and string lit
+What actually preprocessor does
+What are storage classes available ?what are the scenarios the specific storage class is used?
+Are you comfortable with pointers, linked list and Queues?
+What is memory mapping ?How kernel knows to which memory location the devices are mapped?
+How can you avoid accessing of an array beyond its limits?
+What is Memory Leak?
+What are the possible ways that memory leaks can happen in a program ?(Apart from allocation and not freeing )
+How a memory leak can happen in a linked list?
+How can you avoid accessing of an array beyond its limits?
+Whether an exception or normal operation when an array is accessed beyond its limits?
+What are types of function(Callback,Recursion ....)? what is advantage and disadvantages of each function type?
+What are different searching algorithms explain each one ,implement any one?
+How can you corrupt STACK?
+What are the issues faced while developing driver projects?
+What are your strengths?
+Rate yourself in C?
+What is Blocking and Pooling? Differentiate?
+Storage classes in C
+What is pointer
+What is volatile
+What is Structure
+Difference between structure and class
+How to debug different threads in GDB?
+Whether an exception or normal operation when an array is accessed beyond its limits?
+What is Function Pointer?
+What is Call back function?
+How Call Function works?
+What is VOLATILE keyword?
+Write a program to perform a string copy without using string library functions?
+How to pass a two dimensional array to other function?
+Syntax of main with arguments?
+Difference between string and string literal
+compilation steps of a C program
+Memory allocation of a c program
+Why uninitialized data is placed in uninitialized data segment?
+How do find whatever a processor is Big Endian/Little Endian?
+How to search for a specific nth-node in a given unknown number of nodes in a linked list?
+How to determine the size of structure without using "sizeof" operator?
+What is memory leak, how to avoid
+How to delete similar nodes from a linked list, not by traversing every node.
+what is the difference between global and static
+why stack is always in higher location.
+how the default value is get assigned to static variables?
+Struct test { int a; int b; }; Assume you donâ€™t know the contents of structure, and you have the base address of test strucuture alone, how to do access the data inside it ??
+What should be done for static library based linking in gcc ?
+What is object file and what are symbols ?
+Can you tell the memory layout based on Data,BSS,HEAP and STACK ?
+What is a stack frame, stack pointer & frame pointer ?
+What is a profiler ? Which one have you used ?
+How do you determine the direction of stack growth ?
+How will you print “Hello World” without semicolon?
+What are different storage class specifiers in C?
+What is scope of a variable? How are variables scoped in C?
+When should we use pointers in a C program?
+What is NULL pointer?
+What is Dangling pointer?
+What is memory leak? Why it should be avoided
+What are static functions? What is their use?
+How many parameters should a function have?
+What is a static function?
+Should a function contain a return statement if it does not return a value?
+How can you pass an array to a function by value?
+Is it possible to execute code even after the program exits the main() function?
+The standard C library provides a function named atexit() that can be used to perform "cleanup" operations when your program terminates.
+What does a function declared as PASCAL do differently?
+Differentiate exit(), return, break..?
+What is the difference between a string copy (strcpy) and a memory copy (memcpy)? When
+should each be used?
+How can I remove the trailing spaces from a string?
+How can I remove the leading spaces from a string?
+How can I convert a number to a string?
+How can I convert a string to a number?
+What is “##” operator in C?
+What is the use of “#define” in C?
+How will you check whether macro is defined or not in a C program?
+What is the difference between memcpy() and memmove() functions in C?
+What is void pointer in C?
+What is wild pointer in C?
+What is file pointer in C?
+What is const pointer in C?
+What is the difference between null and zero?
+What is the difference between null pointer and uninitialized pointer in C?
+What happens when we try to access null pointer in C?
+What is meant by segmentation fault or memory fault in C?
+What is meant by core dump in C?
+Can a pointer be freed more than once in C? What happens if we do so? Or can a pointer be freed twice in C?
+Can variable name be start with underscore in C?
+What is inline function in C?
+What is extern and static function in C?
+Explain storage class in c
+How will you swap 2 variables without using temp variable in C?
+What is operator precedence in C?
+What is the use of bit field in C?
+What is bus error in C?
+Is it possible to reduce executable file size in C and how?
+What is stack memory in C?
+What is heap memory in C?
+In which memory, local variables are stored in C?
+In which memory, malloc(), calloc() ( dynamic memory functions ) are stored in C?
+While passing an array to a function as an argument, what actually is passed?
+What is high order and low order bytes in C?
+What is the maximum number of arguments that can be passed to a function?
+Do you know why is semicolon used at the end of each line in C programs?
+Explain the # pragma directive?
+Write a program to count blanks, tabs and newlines
+Write a program to copy its input to its output, replacing each string of one or more blanks by a single blank.
+Write a program that prints its input one word per line
+Write a program to print a histogram of the frequencies of different characters in its input
+Write a program to remove trailing blanks and tabs from each line of input, and to delete entirely blank lines
+What is the use of getc, putc, gets, puts, getchar , putchar, getch
+Differentiate atoi(), atof()
+What is the use of strtol() function.?
+Explain typedef keyword.
+What is storage class? List all storage class in c program.
+Write a c program to print the list of maximum repeating number from an array?
+Can we execute c program without main() ?
+Write a c program to check biggest among two numbers without using any relational operators.
+Write a recursive function?
+Write a c program to toggle certain bits in a integer
+Write a c program to merge two linked list
+Write a c program to find set bits in an integer
+Write a c program to convert in words from the given number.(Ex: 952- in word- nine hundred fifty two)
+How would implement virtual function in c program?
+What are the possible coredumps? What do you do if your program does a core dumps?
+Write a code to find out if the system is x86 architecture of sparc
+How much memory can malloc and calloc allocate?
+What is the difference between array of pointer and pointer to array?
+Write a c program to convert little endian to big endian. Implement htons? Also convert using union?
+Write c program to implement printf()?
+How volatile is implemented by compiler?
+From the given variable, how can you find whether it was allocated from stack or heap memory?
+Write a c program to display * for each letter of password you type in command line
+Differentiate constant char pointer and constant pointer to char
+Write a program to remove space when they occur more than one time consecutively in string
+Write c program to implement Malloc and calloc
+How can we avoid the stack overflow?
+Write a c program to perform multiplication of two bytes without * operator, using shift operations.
+What happened when BSS is mapped to address 0?
+What is difference between structure and union. ? What is Structure Padding?
+How to allocate memory for string of unknown/arbitrary length during execution?
+What does malloc(0) means by?
+Write a c program to generate random number without using any build in function?
+Can we crash a process before entering into main()?
+Sizeof(void)?
+Define static, virtual destructor?
+Why auto variable not stored in heap?
+How can you lock a portion of file and how to use it?
+How free() knows how much memory it hast to deallocate?
+What is wild pointer and dangling pointer?
+Difference between strdup and strcpy?
+Explain: 1. huge pointer 2. Near pointer 3. Generic pointer 4.far pointer.
+What is normalized pointer, how do we normalize a pointer?
+What is the use of void pointer? When would you use it?
+Difference between linker and linkage?
+Are the variable argc and argv are always local to main?
+Can main() be called recursively?
+Can #include handle other file formats than .h?
+Can the size of an array be declared at runtime?
+What happens if you free a pointer twice?
+What are the standard predefined macros?
+What is a stream? How many types of streams are in C?
+Why does PASCAL matter? Is there any benefit to using PASCAL functions?
+
+
+1.	Define unaligned access and give an example. What would happen 
+        if unaligned read/write operation is performed?
+	
+	a)	Write a macro to check if a given address is aligned or un-aligned.
+	b)	Write a function in c that reads unsigned integer from an 
+		un-aligned address.
+
+2.	What is the use of double pointer? Write an example C program 
+	describing its use?
+
+3.	Write a macro that converts a given integer value to Boolean?
+
+4.	Write a c program to get the offset in bytes of member “x” from the 
+	below structure.
+
+		struct abc
+		{
+		char a;
+		short b;
+		unsigned c;
+		char x;
+		long y;
+		double z;
+		};
+	
+5.	Write a function to get the value b/w two given bit positions from 
+	an integer.
+
+6.	In the below program, in the while loop, how many iterations will 
+	it take for while loop to exist?
+	
+		Unsigned char i;
+		while(i<512)
+		i++;
+		printf(“no of iterations : %d\n”,i);
+
+7.	Imagine there is no definition of NULL in the standard C library.
+	How do you define your own NULL macro?
+	
+8.	Write a program to find if a machine is big endian or little endian.
+
+9.	Wap to find how many 1's having 0 on its right side and 1 on left 
+	side (i.e. 110) in given hexadecimal number.
+	
+10.	Write two function in C( say alloc_no()) should return unique number 
+	for every time we call it . Another function (free_no()) should take 
+	number as argument and free the allocated number .
+
+	Example :
+	
+		alloc_no() => 1 // return 1, mark number 1 is allocated
+		alloc_no() => 2 // return 2, mark number 2 is allocated
+		alloc_no() => 3 // return 3, mark number 3 is allocated
+		FREE_NO(2) // MARK NUMBER 2 IS FREE
+		alloc_no() => 2 // return 2, mark number 2 is allocated
+		alloc_no() => 4 // return 2, mark number 4 is allocated
+	
+11.	Write a simple c program to demonstrate array of function pointer 
+	and calling function in that array dynamically. 
+	
+12.	Write a c program to show compilation error when changing address 
+	and value of a pointer variable which declared as read only address 
+	and read only value. 
+	
+13.	Explain what is SIGSEGV and SIGBUS in Linux and their differences? 
+	Write two separate c programs for Linux platform which would throw 
+	these signals.
+	
+14.	You are given set of numbers from 1 to n (except which is a duplicate) 
+	in a SLL in scattered order (not in sequence). How do you write a 
+	program to find the duplicate number? Explain what the other 
+	methods Are to solve and its pros/cons.
+	
+15.	Why a Microsoft window is not RTOS? What functionality would you add 
+	to MICROSOFT OS to make it a RTOS?
+	
+16.	What is the difference between the static global variable and global 
+	variable?
+	
+17.	Write a program menu based program to set a bit and clear a bit?
+
+18.	Write a program to arrange given array so that all ones will come 
+	after all zeros.
+
+ 		int a[]={1,0,0,1,0,1,0,0,1,1}
+ 	
+ 		
+PROGRAMS
+--------------
+
+1.	Write a c program for simple browser that does the following operations?
+		a)	Open a web page.
+		b)	Open a link from the page
+		c)	Implement the forward, backward and refresh operation
+
+2.	Write a c program to simulate the functions of a vending machine :
+
+	a)	Get the choice of the product.
+	b)	Get the money.
+	c)	From pre-defined mapping make sure sufficient money is 
+		deposited by the customer and dispatch the product or return 
+		and throw error if in-sufficient.
+	d)	If the product is empty , display it appropriately
+
+3.	Write a c program to handle the traffic signal in a 4-way junction:
+	a)	Assume 30 second interval for each direction.
+	b)	Assume 5 seconds buffer for yellow signal, and display it before 
+		going to step.
+	c)	Handle pedestrian crossing situations as well – assume 10 seconds 
+		in each direction. ?
+
+4.	Wap to "odd string" in a file.
+
+5.	Reverse string w/o using any temporary buffer.
+
+6.	Wap to sum of four, 100 digits decimal numbers
+
+7.	Write a C Program
+
+		Input= 0x12345678
+	 	Output= 0x21436587
+	
+8.	mirror image
+		1 2 3
+		4 5 6 
+		7 8 9
+	Output
+		3 2 1
+		6 5 4
+		9 8 7
+
+9.	Wap to toggle Nth Bit assuming at least 3 bits. Suppose if num is 
+	0x00001234 then N is 4
+
+10.	Assume  you  have  a  method  is Substring  which  checks  if  one  
+	word  is  a  substring  of  another  Given two strings, s1 and s2, 
+	write code to check if s2 is a rotation of s1 using only one call to 
+	is Substring (i.e. “waterbottle” is a rotation of “erbottlewat”
+
